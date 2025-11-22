@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"model","c":"Message","l":"getAuthor()"},{"p":"model","c":"Message","l":"getId()"},{"p":"model","c":"Message","l":"getText()"},{"p":"model","c":"Message","l":"getTime()"},{"p":"model","c":"Message","l":"Message(int, String, String)","u":"%3Cinit%3E(int,java.lang.String,java.lang.String)"}];updateSearchResults();
